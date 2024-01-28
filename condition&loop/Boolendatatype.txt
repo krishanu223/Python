@@ -1,0 +1,18 @@
+
+<---RELATIONSHIP OPERATOR--->
+a=10
+b=20
+(a>b)  a is greterthen b
+(a<b)  a is lessthen b
+(a>=b) a is greterthen or equle b
+(a<=b) a is lessthen or equele b 
+(a==b) a is equle equle b
+(a!=b) a is not equle b
+
+<---LOGICAL OPERATOR---> 
+work only based true and false
+a=True
+b=False
+(a and b) the output is False because a and b are not equle
+(a or b) the output is True because any one are true
+(a not b)the output is True because a and b are not equle

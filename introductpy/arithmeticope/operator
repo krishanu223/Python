@@ -1,0 +1,8 @@
+addtion: 10+20=30(+operator are used to add operation)
+division: 20-10=10(-operator are used to division operation)
+multification:10*2=20(*operator are use to multification)
+exponentional(to the power)=10**2=100(**oprator are used to power on number)
+floting division:10/2=5.0(/operator are used to flowting division)
+integer division:10//2=5(//operator are used to integer division)
+modulas:10%2=0(%operator are used to modulas operator)
+for seperator arithmetic operation can use () for seperator block 

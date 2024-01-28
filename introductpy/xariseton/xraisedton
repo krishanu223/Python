@@ -1,0 +1,4 @@
+def mypow(x:float,n:int)->float:
+    return x**n #calculate and return
+pass
+print(mypow(10,2))#delet this line its only for test

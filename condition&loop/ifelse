@@ -1,0 +1,15 @@
+if true:
+    progran will be excute while if conditon is true
+else:
+    program will be excute while condition is false
+<---MLTIPLE IF STATEMEMT--->
+n=5
+if n>4:
+    print("hi")
+if n==5:
+    print("hello")
+else:
+    print("bad try")
+
+The out put is : "hihello"
+because if STATEMEMT dose not need else STATEMEMT but else STATEMEMT need if STATEMEMT

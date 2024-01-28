@@ -1,0 +1,14 @@
+<-------------------------FOR LOOP ON STRING----------------------------------------->
+s="STRING"
+for i in s:
+    print(i)
+OUTPUT:
+S
+T
+R
+I
+N
+G
+<-------------------------FOR LOOP ON NUMBER------------------------------------------>
+N=10
+for i in range(startindex,endindex,stepsize)
